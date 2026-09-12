@@ -5,14 +5,11 @@ RC Car 자동주차 제어를 통합한 AI 스마트 주차 시스템입니다.
 
 ## System Architecture
 
-CCTV / Camera
-→ YOLO & Computer Vision
-→ Parking State
-→ RL Parking Assignment
-→ Route & Mission Planning
-→ Host Controller
-→ ESP32
-→ RC Car
+<p align="center">
+  <img src="system-architecture.png"
+       alt="Hanium 2026 AI Smart Parking System Architecture"
+       width="100%">
+</p>
 
 ## Repositories
 
